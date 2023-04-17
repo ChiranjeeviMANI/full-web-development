@@ -1,0 +1,40 @@
+1/What is the Internet?
+
+The Internet is a global network of billions of computers and other electronic devices. With the Internet, it's possible to access almost any information, communicate with anyone else in the world, and do much more.
+
+You can do all of this by connecting a computer to the Internet, which is also called going online. When someone says a computer is online, it's just another way of saying it's connected to the Internet.It's important to realize that the Internet is a global network of physical cables, which can include copper telephone wires, TV cables, and fiber optic cables. Even wireless connections like Wi-Fi and 3G/4G rely on these physical cables to access the Internet.
+
+
+2/What is the Web Browser?
+
+A web browser is a software application for accessing information on the Internet. Each individual web page, image, and video is identified by a distinct Uniform Resource Locator (URL), enabling browsers to retrieve these resources from a web server and display them on a user's device.
+When you choose a web browser, you’re also choosing a browser engine and a rendering engine - sometimes these two terms are used separately and sometimes to mean the same thing.
+
+History of the Web Browser 
+The first web browser WorldWideWeb was invented in the year of 1990 by Tim Berners-Lee. Later, it becomes Nexus. In the year of 1993, a new browser Mosaic was invented by Mark Andreessen and their team. It was the first browser to display text and images at a time on the device screen. He also invents another browser Netscape in 1994. Next year Microsoft launched a web browser Internet Explorer which was already installed in the Windows operating system. After this many browsers were invented with various features like Mozilla Firefox, Google Chrome, Safari, Opera, etc. 
+
+
+3/What is a browser engine?
+A browser engine is a core software component of every major web browser. The primary job of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device. The engine combines all relevant CSS rules to calculate precise graphical coordinates for the visual representation it will show on the screen. To complete the process, the engine makes the necessary system calls.
+
+The browser engine is to take the HTML, CSS and other code of a web page - the text you can see in the page source or open in a text editor, setting out layouts, page content, and styling - and convert it into what you actually see on screen.
+
+
+4/what is static site?
+
+static site web pages are made of “fixed code,” and unless the site developer makes changes, nothing will change on the page. Think of it like a brochure for a business. Static sites give a lot of the same type of information that you could get from a brochure, but it can't just change its self
+
+To start off, let’s take a look at the meaning of a static website. A basic definition of a static website could be as follows: A static website (also a static web page or a static web) is a website that appears the same for every user, despite the user’s settings and preferences and other factors like location or local time.
+
+As Pluralsight elaborates, a static web is made up of “fixed code” stored on a web server. When a user uses a URL to request a page from the server, the server ships the code back without any alterations. As a result, these sites are delivered to users precisely the way they’re stored.
+
+
+5/what is dynamic site explain?
+
+A dynamic website is a website that displays different types of content every time a user views it. This display changes depending on a number of factors like viewer demographics, time of day, location, language settings, And so on
+
+Dynamic Website is a website containing data that can be mutable or changeable. It uses client-side or server scripting to generate mutable content. Like a static website, it also contains HTML data.
+
+Dynamic websites are those websites that changes the content or layout with every request to the webserver. These websites have the capability of producing different content for different visitors from the same source code file. There are two kinds of dynamic web pages i.e. client side scripting and server side scripting. The client-side web pages changes according to your activity on the web page. On the server-side, web pages are changed whenever a web page is loaded 
+
+
